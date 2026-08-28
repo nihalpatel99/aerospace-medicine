@@ -5,3 +5,4 @@ python-dotenv
 # `import httpx`. Pinned until azure-ai-projects supports openai 3.
 openai<3
 streamlit
+mlflow

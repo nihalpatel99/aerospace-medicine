@@ -1,0 +1,16 @@
+High workload slows pilots’ responses because it consumes the limited cognitive resources needed to perceive, decide, and act. In aviation tasks, several interacting mechanisms are common:
+
+- Capacity limits and dual‑task interference: When multiple time‑critical tasks compete (manual control, monitoring, comms), they draw on the same limited pools of attention and working memory. As load rises, detection and decision latencies increase and secondary tasks are delayed or dropped. Empirically, when pilots’ task load rises, NASA‑TLX “mental demand” and “temporal demand” scores increase, indicating tighter time pressure and resource strain, which is associated with degraded performance and slower reactions. 【9:1†source】【12:11†source】
+
+- Attentional tunneling and divided‑attention costs: Under high demand, attention narrows to salient cues, delaying responses to other cues. Flight‑deck factors that force frequent reallocation of attention (for example, dividing attention between symbology and external visuals) can worsen this; a mismatch in focal distance between the display and the outside scene can hinder dividing attention, further slowing timely cue pickup and control responses. 【9:12†source】
+
+- Increased coordination and response selection time: More tasks mean more response options and prioritization decisions (what to do first). This adds response‑selection bottlenecks and can lengthen action initiation times as the pilot sequences or defers tasks under time pressure. In simulator research, higher overall workload scores (NASA‑TLX total and subscales) have coincided with small but measurable degradations in control tracking, consistent with slowed or less precise responding under load. 【6:7†source】【9:11†source】
+
+- Interface/technology factors that elevate workload: Certain display configurations can raise workload (e.g., head‑worn versus head‑up implementations), reflected by higher NASA‑TLX totals and subscale scores for mental and temporal demand; higher workload in turn is linked to delayed or less accurate responses. 【9:10†source】【6:6†source】
+
+What helps mitigate slower responses under high workload
+- Use displays/procedures that reduce mental/temporal demand; for example, head‑up guidance has been associated with lower reported workload during low‑visibility approaches, supporting faster detection and more accurate control. 【9:3†source】
+- Minimize forced attention shifts or focal mismatches (e.g., manage when/where sensor imagery is shown) to preserve divided‑attention performance. 【9:12†source】
+- Apply task‑management heuristics (prioritize “aviate‑navigate‑communicate,” brief task shedding, standard callouts) to reduce response‑selection bottlenecks; these practices aim to keep response times for safety‑critical actions short by limiting concurrent demands. 【12:10†source】
+
+Bottom line: As tasks pile up and time pressure rises, pilots’ shared cognitive resources get saturated. That raises mental and temporal demand, narrows attention, and adds response‑selection overhead—together producing slower and occasionally less accurate responses. The aviation human‑factors evidence above shows higher workload ratings alongside small but consistent degradations in performance metrics, consistent with delayed responding under load. 【9:1†source】【6:7†source】【9:11†source】
